@@ -1,0 +1,120 @@
+@font-face{
+
+	font-family: 'Roboto-Thin', sans-serif;
+	src: url('fonts/Roboto/Roboto-Thin.ttf') format('truetype');
+
+	font-family: 'Roboto-Regular', sans-serif;
+	src: url('fonts/Roboto/Roboto-Regular.ttf') format('truetype');
+
+	font-family: 'Roboto-Bold', sans-serif;
+	src: url('fonts/Roboto/Roboto-Bold.ttf') format('truetype');
+}
+
+h1.title, h1.with-author{
+	display: none;
+}
+
+h2, a.french_speak, a.body_links{
+
+	font-family: 'Roboto-Regular', sans-serif;
+}
+
+h2.open, a.french_speak{
+
+	font-size: 2em;
+}
+
+a.french_speak{
+
+	color: #7fb8b7;
+	text-decoration:underline;
+}
+
+a.body_links{
+
+	color: #FFFFFF;
+	font-size: 2em;
+	background-color: #7fb8b7;
+	padding: 7px 1.2em;
+}
+
+a.body_links:hover{
+
+	color: #FFFFFF;
+}
+
+p{
+	font-family: 'Roboto-Thin', sans-serif;
+	font-size: 1.5em;
+}
+
+div.about_block{
+
+	padding: 0 0 0 3em;
+}
+
+div.open_d{
+
+	margin-top: -2em;	
+}
+
+div.adv{
+
+	padding: 2em 0 0 1em;
+}
+
+div.how_it{
+
+	padding: 2em 0 0 5em;
+}
+
+ul#advantages{
+
+	font-family: 'Roboto-Thin', sans-serif;
+	font-size: 1.2em;
+}
+
+li{
+
+	vertical-align: top;
+}
+
+
+li.l1{
+
+	list-style-image: url("../images/bullets/list.png") ;
+} 
+
+li.l2{
+
+	list-style-image: url("../images/bullets/clock.png");
+}
+
+li.l3{
+
+	list-style-image: url("../images/bullets/monitor.png");
+}
+
+li.l4{
+
+	list-style-image: url("../images/bullets/communicate.png");
+}
+
+li.l5{
+
+	list-style-image: url("../images/bullets/new_people.png");
+}
+
+li.l6{
+
+	list-style-image: url("../images/bullets/numerous.png");
+}
+
+div.desc_image{
+
+	background-image: url("../images/bullets/description.png");
+	background-size:350px 196px;
+	background-repeat: no-repeat;
+
+	height: 196px;
+}

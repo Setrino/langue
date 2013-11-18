@@ -1,0 +1,112 @@
+@font-face{
+
+	font-family: 'Roboto-Thin', sans-serif;
+	src: url('fonts/Roboto/Roboto-Thin.ttf') format('truetype');
+
+	font-family: 'Roboto-Regular', sans-serif;
+	src: url('fonts/Roboto/Roboto-Regular.ttf') format('truetype');
+
+	font-family: 'Roboto-Bold', sans-serif;
+	src: url('fonts/Roboto/Roboto-Bold.ttf') format('truetype');
+}
+
+h2.motivated{
+
+	font-family: 'Roboto-Thin', sans-serif;
+	color: #b6c644;
+	font-size: 2em;
+}
+
+h2.open, a.french_speak{
+
+	font-size: 2em;
+}
+
+li.solutions{
+
+	list-style: none;
+	font-size: 1.5em;
+	font-family: 'Roboto-Thin', sans-serif;
+}
+
+a.french_speak{
+
+	color: #7fb8b7;
+	text-decoration:underline;
+}
+
+a.interested{
+
+	color: #FFFFFF;
+	font-size: 1.5em;
+	background-color: #7fb8b7;
+	padding: 7px 2em;
+	margin-left: 5px;
+}
+
+a.interested:hover{
+
+	color: #FFFFFF;
+}
+
+div.head{
+
+	padding: 1em 0 0 0;
+}
+
+div.mot{
+
+	padding: 1em 0 1.5em 2.5em;
+}
+
+div.how_it_int{
+
+	padding: 1.5em 0 0 0;
+}
+
+ul#points{
+
+	font-family: 'Roboto-Thin', sans-serif;
+	font-size: 1.2em;
+}
+
+li{
+
+	vertical-align: top;
+}
+
+
+li.i1{
+
+	list-style-image: url("../images/bullets/one.png") ;
+} 
+
+li.i2{
+
+	list-style-image: url("../images/bullets/two.png");
+}
+
+li.i3{
+
+	list-style-image: url("../images/bullets/three.png");
+}
+
+li.i4{
+
+	list-style-image: url("../images/bullets/four.png");
+}
+
+li.i5{
+
+	list-style-image: url("../images/bullets/five.png");
+}
+
+li.i6{
+
+	list-style-image: url("../images/bullets/six.png");
+}
+
+li.i7{
+
+	list-style-image: url("../images/bullets/seven.png");
+}
